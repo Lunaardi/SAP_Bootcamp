@@ -1,0 +1,7 @@
+Estes Scripts fora criados para realizar uma carga de dados na tabela de CFOP (J_1BAGNV) correspondente da transação SM30
+
+Caso 1 temos apenas a inserção de uma linha.
+Caso 2 temos a orientação pela tabela
+Caso 3 temos o tratamento para não desconsiderar campos em branco
+Caso 4 tratamos para inserir varios registros antes de sair/salvar(ordem customizing)
+Caso 5 Tratamos para inserir 27 registros sair/salvar(ordem customizing) e retornar o processo até o final da carga.
